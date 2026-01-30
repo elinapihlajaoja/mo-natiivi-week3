@@ -1,4 +1,4 @@
-Linkki YouTube-videoon: 
+Linkki YouTube-videoon: https://youtu.be/gvSGmnrUuTs
 ## Datamalli
 "Task" data class:
 
